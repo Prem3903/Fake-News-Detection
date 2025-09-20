@@ -32,3 +32,16 @@ The model is trained on a dataset of news articles and uses **Logistic Regressio
 
 ## Project Structure
 
+Fake-News-Detection/
+├─ app.py
+├─ model.pkl
+├─ vectorizer.pkl
+├─ requirements.txt
+├─ README.md
+├─ screenshots/
+│   ├─ fake_news_app.png
+│   ├─ fake_news_example.png
+│   └─ real_news_example.png
+└─ .gitignore
+
+
