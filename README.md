@@ -39,9 +39,8 @@ Fake-News-Detection/
 ├─ requirements.txt
 ├─ README.md
 ├─ screenshots/
-│   ├─ fake_news_app.png
-│   ├─ fake_news_example.png
-│   └─ real_news_example.png
+│ ├─ fake_news_app.png
+│ ├─ fake_news_example.png
+│ └─ real_news_example.png
 └─ .gitignore
-
 
